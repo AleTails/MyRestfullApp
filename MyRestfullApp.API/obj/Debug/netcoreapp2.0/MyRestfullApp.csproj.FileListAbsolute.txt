@@ -1,0 +1,11 @@
+C:\VirtualandTest\VirtualandTest\MyRestfullApp\bin\Debug\netcoreapp2.0\MyRestfullApp.deps.json
+C:\VirtualandTest\VirtualandTest\MyRestfullApp\bin\Debug\netcoreapp2.0\MyRestfullApp.runtimeconfig.json
+C:\VirtualandTest\VirtualandTest\MyRestfullApp\bin\Debug\netcoreapp2.0\MyRestfullApp.runtimeconfig.dev.json
+C:\VirtualandTest\VirtualandTest\MyRestfullApp\bin\Debug\netcoreapp2.0\MyRestfullApp.dll
+C:\VirtualandTest\VirtualandTest\MyRestfullApp\obj\Debug\netcoreapp2.0\MyRestfullApp.csproj.CoreCompileInputs.cache
+C:\VirtualandTest\VirtualandTest\MyRestfullApp\obj\Debug\netcoreapp2.0\MyRestfullApp.AssemblyInfoInputs.cache
+C:\VirtualandTest\VirtualandTest\MyRestfullApp\obj\Debug\netcoreapp2.0\MyRestfullApp.AssemblyInfo.cs
+C:\VirtualandTest\VirtualandTest\MyRestfullApp\bin\Debug\netcoreapp2.0\MyRestfullApp.pdb
+C:\VirtualandTest\VirtualandTest\MyRestfullApp\obj\Debug\netcoreapp2.0\MyRestfullApp.dll
+C:\VirtualandTest\VirtualandTest\MyRestfullApp\obj\Debug\netcoreapp2.0\MyRestfullApp.pdb
+C:\VirtualandTest\VirtualandTest\MyRestfullApp\obj\Debug\netcoreapp2.0\MyRestfullApp.csprojResolveAssemblyReference.cache

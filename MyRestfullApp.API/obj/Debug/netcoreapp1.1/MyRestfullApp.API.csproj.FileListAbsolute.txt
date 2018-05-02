@@ -1,0 +1,4 @@
+C:\VirtualandTest\VirtualandTest\MyRestfullApp.API\obj\Debug\netcoreapp1.1\MyRestfullApp.API.csprojResolveAssemblyReference.cache
+C:\VirtualandTest\VirtualandTest\MyRestfullApp.API\obj\Debug\netcoreapp1.1\MyRestfullApp.API.csproj.CoreCompileInputs.cache
+C:\VirtualandTest\VirtualandTest\MyRestfullApp.API\obj\Debug\netcoreapp1.1\MyRestfullApp.API.AssemblyInfoInputs.cache
+C:\VirtualandTest\VirtualandTest\MyRestfullApp.API\obj\Debug\netcoreapp1.1\MyRestfullApp.API.AssemblyInfo.cs
