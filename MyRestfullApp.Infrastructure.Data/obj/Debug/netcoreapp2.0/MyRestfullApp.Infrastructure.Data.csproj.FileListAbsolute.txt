@@ -1,9 +1,0 @@
-C:\VirtualandTest\VirtualandTest\MyRestfullApp.Infrastructure.Data\bin\Debug\netcoreapp2.0\MyRestfullApp.Infrastructure.Data.deps.json
-C:\VirtualandTest\VirtualandTest\MyRestfullApp.Infrastructure.Data\bin\Debug\netcoreapp2.0\MyRestfullApp.Infrastructure.Data.dll
-C:\VirtualandTest\VirtualandTest\MyRestfullApp.Infrastructure.Data\obj\Debug\netcoreapp2.0\MyRestfullApp.Infrastructure.Data.csprojResolveAssemblyReference.cache
-C:\VirtualandTest\VirtualandTest\MyRestfullApp.Infrastructure.Data\obj\Debug\netcoreapp2.0\MyRestfullApp.Infrastructure.Data.csproj.CoreCompileInputs.cache
-C:\VirtualandTest\VirtualandTest\MyRestfullApp.Infrastructure.Data\obj\Debug\netcoreapp2.0\MyRestfullApp.Infrastructure.Data.AssemblyInfoInputs.cache
-C:\VirtualandTest\VirtualandTest\MyRestfullApp.Infrastructure.Data\obj\Debug\netcoreapp2.0\MyRestfullApp.Infrastructure.Data.AssemblyInfo.cs
-C:\VirtualandTest\VirtualandTest\MyRestfullApp.Infrastructure.Data\bin\Debug\netcoreapp2.0\MyRestfullApp.Infrastructure.Data.pdb
-C:\VirtualandTest\VirtualandTest\MyRestfullApp.Infrastructure.Data\obj\Debug\netcoreapp2.0\MyRestfullApp.Infrastructure.Data.dll
-C:\VirtualandTest\VirtualandTest\MyRestfullApp.Infrastructure.Data\obj\Debug\netcoreapp2.0\MyRestfullApp.Infrastructure.Data.pdb
