@@ -8,7 +8,7 @@ This is a Code First project, so the database can be created with EntityFramewor
 
 1. Open this solution in Visual Studio.
 2. In the Package Manager console, run `update-database`.
-3. Once finished, open SQL Manager and conect to the engine. MyRestfullApp database should have been created and should contain an empty table User.
+3. Once finished, open SQL Manager and conect to the server. MyRestfullApp database should have been created and should contain an empty table User.
 
 ## Instructions to seed the database
 
